@@ -44,6 +44,14 @@ adjusted to prevent the camera from zooming too close into the level.
 
 ---
 
+## Performance Notes
+
+The game was tested on my iPhone 15 via Xcode. During testing, the game ran smoothly with no 
+noticeable lag or frame drops. The virtual joystick, pinch-to-zoom, and accelerometer-based 
+speed boost all responded quickly and felt responsive during gameplay.
+
+---
+
 ## Author
 
 Name/Student: Marlon Bounds
